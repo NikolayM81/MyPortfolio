@@ -24,6 +24,9 @@
 
 [Домашнее задание к занятию «Инструменты тестирования для работы с документацией»](https://docs.google.com/spreadsheets/d/1vGG2cyWxy2IgKP7ZnUgNaP7RKhcXyIJUOIhcBymGl6A/edit?usp=sharing)
 
+[Домашнее задание к занятию «Инструменты тестирования. Клиент-сервер»](https://docs.google.com/document/d/1z24uxH-nQJdl41XB2ZB86xeqc290mYYy2CtdNj921q8/edit?usp=sharing)
+
+
 [Курсовая работа](https://docs.google.com/spreadsheets/d/1GtWthKrZcIi-5FGNRs5yuLEQ8FKlDcbF/edit?usp=sharing&ouid=110719326533333088775&rtpof=true&sd=true)
 
 [Тестирование сайта покупок](https://docs.google.com/spreadsheets/d/1ZqLvKXIiPtrsgSlkxgVRB8LDgK9MDjhX/edit?usp=sharing&ouid=110719326533333088775&rtpof=true&sd=true)
